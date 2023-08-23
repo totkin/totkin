@@ -1,5 +1,14 @@
-### Hi there 👋
+# Python: Test and Education
 
+This is a local repository for learning Python and working out scenarios for using it for personal purposes.
+
+## Contributing
+
+Free, Open, SOLID.
+
+## License
+
+[MIT](https://choosealicense.com/licenses/mit/)
 <!--
 **totkin/totkin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
